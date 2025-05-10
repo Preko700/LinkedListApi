@@ -138,4 +138,4 @@ LinkedListApi/
 
 ## Licencia
 
-Este proyecto está bajo la [Licencia MIT](https://opensource.org/licenses/MIT). Siéntete libre de usarlo, modificarlo y distribuirlo.
+Este proyecto está bajo la [Apache 2.0](https://github.com/Preko700/LinkedListApi?tab=Apache-2.0-1-ov-file). Siéntete libre de usarlo, modificarlo y distribuirlo.
